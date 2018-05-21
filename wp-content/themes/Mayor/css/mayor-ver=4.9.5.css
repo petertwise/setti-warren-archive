@@ -198,7 +198,7 @@ h3 {
 
 .expandable-container.expanded .expandable-content {
   margin-bottom: 40px;
-  max-height: fit-content; }
+  max-height: 2500px; }
 
 .expandable-container .expandable-button {
   font-family: "Muli", sans-serif;
